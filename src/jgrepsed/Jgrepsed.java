@@ -40,7 +40,7 @@ import java.util.regex.Pattern;
 
 /**
  *
- * @author rzp16
+ * @author sharapov
  */
 public class Jgrepsed {
 
